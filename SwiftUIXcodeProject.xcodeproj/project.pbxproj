@@ -16,6 +16,7 @@
 		A4036FA922A933FA00F52B15 /* SwiftUIXcodeProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4036FA822A933FA00F52B15 /* SwiftUIXcodeProjectTests.swift */; };
 		A4036FB422A933FA00F52B15 /* SwiftUIXcodeProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4036FB322A933FA00F52B15 /* SwiftUIXcodeProjectUITests.swift */; };
 		A452F91F22AFE18A00E4053F /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A452F91E22AFE18A00E4053F /* CircleImage.swift */; };
+		A452F92122AFE34500E4053F /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A452F92022AFE34500E4053F /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A4036FB322A933FA00F52B15 /* SwiftUIXcodeProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIXcodeProjectUITests.swift; sourceTree = "<group>"; };
 		A4036FB522A933FA00F52B15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A452F91E22AFE18A00E4053F /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		A452F92022AFE34500E4053F /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				A4036F9322A933F900F52B15 /* SceneDelegate.swift */,
 				A4036F9522A933F900F52B15 /* ContentView.swift */,
 				A452F91E22AFE18A00E4053F /* CircleImage.swift */,
+				A452F92022AFE34500E4053F /* MapView.swift */,
 				A4036F9722A933FA00F52B15 /* Assets.xcassets */,
 				A4036F9C22A933FA00F52B15 /* LaunchScreen.storyboard */,
 				A4036F9F22A933FA00F52B15 /* Info.plist */,
@@ -272,6 +275,7 @@
 			files = (
 				A4036F9222A933F900F52B15 /* AppDelegate.swift in Sources */,
 				A452F91F22AFE18A00E4053F /* CircleImage.swift in Sources */,
+				A452F92122AFE34500E4053F /* MapView.swift in Sources */,
 				A4036F9422A933F900F52B15 /* SceneDelegate.swift in Sources */,
 				A4036F9622A933F900F52B15 /* ContentView.swift in Sources */,
 			);
